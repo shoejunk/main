@@ -1,10 +1,9 @@
-import stk.tpl;
+import stk.main;
 
 using namespace stk;
 
 int main()
 {
-	c_template tpl;
-	tpl.go_template();
+	c_main main;
 	return 0;
 }
